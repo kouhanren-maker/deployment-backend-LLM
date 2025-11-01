@@ -4,3 +4,4 @@ aiohttp
 pydantic
 transformers
 requests
+python-dotenv
