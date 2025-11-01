@@ -1,0 +1,41 @@
+{
+  "product": [
+    {
+      "name": "Nike Air Force 1",
+      "description": "it's a white shoes",
+      "type": "shoes",
+      "brand": "Nike",
+      "price": 10,
+      "source": "www.taobao.com/xx",
+      "attributes": {
+        "color": "white",
+        "size": "42 medium"
+      }
+    },
+    {
+      "name": "Nike Air Force 1",
+      "description": "it's a white shoes",
+      "type": "shoes",
+      "brand": "Nike",
+      "price": 10.5,
+      "source": "www.amazon.com/xx",
+      "attributes": {
+        "color": "white",
+        "size": "42 medium"
+      }
+    },
+    {
+      "name": "Nike Air Force 1",
+      "description": "it's a white shoes",
+      "type": "shoes",
+      "brand": "Nike",
+      "price": 11,
+      "source": "www.taobao.com/xx2",
+      "attributes": {
+        "color": "white",
+        "size": "42 medium"
+      }
+    }
+  ],
+  "answer": "we have found three products..."
+}
