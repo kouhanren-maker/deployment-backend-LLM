@@ -1,7 +1,7 @@
 # app.py
 from fastapi import FastAPI
 from .models import CompareQuery, CompareResult, AgentQuery
-from orchestrator import PriceCompareOrchestrator
+from .orchestrator import PriceCompareOrchestrator
 from providers.google_shopping import GoogleShoppingProvider
 from router.intent_router import detect_intent
 from recommender.recommend_agent import generate_recommendations
