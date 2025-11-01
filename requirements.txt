@@ -1,7 +1,0 @@
-fastapi
-uvicorn[standard]
-aiohttp
-pydantic
-transformers
-requests
-python-dotenv
